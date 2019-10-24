@@ -7,8 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
-
+clone the code
 
 Make
 ----
