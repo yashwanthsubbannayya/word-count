@@ -5,7 +5,7 @@ Exercises (documentation lesson)
 
 Before you start
 ----------------
-
+- Install required software and dependencies.
 - Discuss the exercise idea with the classroom.
 - Distribute exercises among groups of 2-3 persons.
 - Open a GitHub issue and inform the community about the problem and how you
